@@ -20,3 +20,5 @@ else
 }
 
 obj_game.points += 50;
+
+audio_play_sound(snd_destruction, 1,0)
